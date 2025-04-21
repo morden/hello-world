@@ -7,3 +7,5 @@ Adding text again.
 Added text to test "pull".
 
 This repository is built step by step in the tutorial.
+
+Added text to push a Branch to GitHub
